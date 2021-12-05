@@ -35,5 +35,5 @@ A Front-End Web Developer specializing in JavaScript ReactJS framework currently
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub logo"  width="20" height="20"  /> GitHub stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejakpiotr)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejakpiotr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![BlazejakPiotr GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejakpiotr)](https://github.com/blazejakpiotr/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejakpiotr&layout=compact)](https://github.com/blazejakpiotr/github-readme-stats)
  
