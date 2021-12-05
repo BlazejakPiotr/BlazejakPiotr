@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30px"> I'am Piotr Błażejak.
+### Welcome to my GitHub profile <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30px"> I'am Piotr Błażejak. ###
 
 <!--
 ---
@@ -9,6 +9,14 @@
 -->
 
 A Front-End Web Developer specializing in JavaScript ReactJS framework currently studying in Strive.School 
+
+🔨 I’m currently working on Poker Tournament Manager (Strive School capstone project)
+
+🕮 I’m currently learning ReactJS
+
+How to reach me:
+
+<a href="https://discord.com/users/6313"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord logo"/></a> <a href="https://github.com/BlazejakPiotr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" /> </a> <a href="mailto:hglock@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" /></a>          <a href="https://www.linkedin.com/in/piotr-b%C5%82a%C5%BCejak-7346771a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /> </a>     <a href="https://twitter.com/PiotrBlazejak"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter logo" /> </a>      
 
 ---
 
@@ -39,7 +47,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
