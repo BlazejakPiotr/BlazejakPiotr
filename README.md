@@ -1,4 +1,4 @@
-Welcome to my GitHub profile <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="30px">
+Welcome to my GitHub profile <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30px">
 
 I'am Piotr Blazejak and I'am Front-end Webdeveloper.
 
