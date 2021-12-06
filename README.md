@@ -10,7 +10,7 @@
 
 I'am Piotr Błażejak. 
 
-A Front-End Web Developer specializing in JavaScript ReactJS framework currently studying in Strive.School 
+A Frontend Web Developer specializing in JavaScript ReactJS framework currently studying in Strive.School 
 
 ---
 
