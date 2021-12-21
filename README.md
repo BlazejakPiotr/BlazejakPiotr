@@ -8,7 +8,7 @@
 ---
 -->
 
-I'am Piotr Błażejak. 
+I am Piotr Błażejak. 
 
 A Frontend Web Developer specializing in JavaScript ReactJS framework. 
 
